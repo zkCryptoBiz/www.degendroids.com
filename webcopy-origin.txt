@@ -1,0 +1,156 @@
+Uri: https://www.degendroids.com/
+File Name: C:\Downloaded Web Sites\www.degendroids.com\index.htm
+Content Type: text/html
+
+Uri: https://www.degendroids.com/Banner_nobg.png
+File Name: C:\Downloaded Web Sites\www.degendroids.com\Banner_nobg.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/bg-animated.gif
+File Name: C:\Downloaded Web Sites\www.degendroids.com\bg-animated.gif
+Content Type: image/gif
+
+Uri: https://www.degendroids.com/button.png
+File Name: C:\Downloaded Web Sites\www.degendroids.com\button.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.degendroids.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.degendroids.com/Roadmap_mbl_2.png
+File Name: C:\Downloaded Web Sites\www.degendroids.com\Roadmap_mbl_2.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fabout_banner_2.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\about_banner_2.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fabout_banner_2.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\about_banner_2-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2FAndy.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\Andy-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2FAndy.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\Andy.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fbomb_1.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\bomb_1-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fbomb_1.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\bomb_1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2FBrett.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\Brett-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2FBrett.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\Brett.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fhook.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\hook-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fhook.png&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\hook.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fline-1.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\line-1-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fline-1.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\line-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fline-3.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\line-3-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fline-3.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\line-3.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fpepe.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\pepe-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2Fpepe.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\pepe.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2FPonke.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\Ponke-1.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/image?url=%2FPonke.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\Ponke.png
+Content Type: image/png
+
+Uri: https://www.degendroids.com/_next/static/chunks/350-4193e3aba171044d.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\350-4193e3aba171044d.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/373-b8b9301c6caa167e.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\373-b8b9301c6caa167e.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/3d47b92a-747faa34ecebb584.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\3d47b92a-747faa34ecebb584.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/4bd1b696-6f8dcdb39920ed35.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\4bd1b696-6f8dcdb39920ed35.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/517-922c0f1ae0bc19fa.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\517-922c0f1ae0bc19fa.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/53c13509-f51a05e17a5d177a.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\53c13509-f51a05e17a5d177a.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/8e1d74a4-776e7fa61745bcd8.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\8e1d74a4-776e7fa61745bcd8.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/app/layout-61fe1d358312a62a.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\app\layout-61fe1d358312a62a.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/app/page-315c803019294fba.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\app\page-315c803019294fba.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/b563f954-6adaf6b5363d8dd0.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\b563f954-6adaf6b5363d8dd0.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/main-app-a849309caff0f7ba.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\main-app-a849309caff0f7ba.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/chunks/webpack-c3f605b33c1e46b5.js?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\chunks\webpack-c3f605b33c1e46b5.js
+Content Type: application/javascript
+
+Uri: https://www.degendroids.com/_next/static/css/2b5e7c35b279a169.css?dpl=dpl_4tg8zTNHu5cLfAzzAR9AL5WUSdbi
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\css\2b5e7c35b279a169.css
+Content Type: text/css
+
+Uri: https://www.degendroids.com/_next/static/media/ba6002c3b2aeb8e0-s.p.otf
+File Name: C:\Downloaded Web Sites\www.degendroids.com\_next\static\media\ba6002c3b2aeb8e0-s.p.otf
+Content Type: font/otf
+
